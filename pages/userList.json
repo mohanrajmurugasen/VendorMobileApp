@@ -1,0 +1,32 @@
+[
+    {
+        "name":"House Cleaning (with Basic \nSanitization)",
+        "id": "img/air.jpeg",
+        "title": "House Cleaners",
+        "content": "Get your home cleaned with the help of our trained cleaners. Choose from one-time, weekly, bi-weekly or monthly cleaning depending on your needs. The service comes with wide coverage areas such as the dining room, kitchen, bedroom, living room and bathroom."
+    },
+    {
+        "name":"Aircond Servicing",
+        "id":"img/air.jpeg",
+        "title": "Aircond Service",
+        "content": "Get your aircond serviced with the help of our highly experienced experts. Our experts are familiar with various brands in Malaysia. You can select either Chemical Cleaning or Overhaul Cleaning."
+    },
+    {
+        "name":"Plumbing Repair",
+        "id":"img/air.jpeg",
+        "title": "Plumbers",
+        "content": "Get your plumbing problems fixed with the help of our plumbing experts. They are experienced in dealing with common plumbing issues such as clogged pipes, leaking pipes, low water pressure and many more."
+    },
+    {
+        "name":"Electrical Wiring / Power Point",
+        "id":"img/air.jpeg",
+        "title": "Electrician",
+        "content": "Get a new electrical wiring/power point installed in your home with the help of our professionals. Our electrician professionals are highly experienced in relocating, repair, replacing and installing wiring/power points."
+    },
+    {
+        "name":"Local Moving - Budget Lorry",
+        "id":"img/air.jpeg",
+        "title": "Local Moving Budget Lorry Service",
+        "content": "Move with ease with our local moving lorry service. The local moving service consists of a driver and a 1-tonne lorry. Quotes rate is based on travel as well as additional add-ons you may require for a more comfortable move such as extra movers, lorry size upgrade."
+    }
+]

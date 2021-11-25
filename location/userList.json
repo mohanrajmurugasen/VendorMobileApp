@@ -1,0 +1,70 @@
+[
+    {
+        "name":"George Town",
+        "id": 1
+    },
+    {
+        "name":"Kuala Lumpur",
+        "id":2
+    },
+    {
+        "name":"Ipoh",
+        "id":3
+    },
+    {
+        "name":"Kuching",
+        "id":4
+    },
+    {
+        "name":"Johor Bahru",
+        "id":5
+    },
+    {
+        "name":"Kota Kinabalu",
+        "id":6
+    },
+    {
+        "name":"Shah Alam",
+        "id":7
+    },
+    {
+        "name":"Malacca City",
+        "id":8
+    },
+    {
+        "name":"Alor Setar",
+        "id":9
+    },
+    {
+        "name":"Miri",
+        "id":10
+    },
+    {
+        "name":"Petaling Jaya",
+        "id":11
+    },
+    {
+        "name":"Kuala Terengganu",
+        "id":12
+    },
+    {
+        "name":"Iskandar Puteri",
+        "id":13
+    },
+    {
+        "name":"Seberang Perai",
+        "id":14
+    },
+    {
+        "name":"Seremban",
+        "id":15
+    },
+    {
+        "name":"Kuantan",
+        "id":16
+    },
+    {
+        "name":"Pasir Gudang",
+        "id":17
+    }
+]

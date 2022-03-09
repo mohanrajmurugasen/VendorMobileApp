@@ -1,4 +1,4 @@
-package com.mobileview;
+package com.VendorApp;
 
 import com.facebook.react.ReactActivity;
 import android.os.Bundle;
